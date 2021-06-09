@@ -1,0 +1,27 @@
+body {
+  background-color: #121725;
+}
+
+h1 {
+  font-family: Chivo, sans-serif;
+  font-weight: 300;
+  font-size: 57px;
+  color: #54E6AF;
+  text-transform: uppercase;
+}
+
+p {
+  font-family: Chivo, sans-serif;
+  font-weight: 300;
+  font-size: 23px;
+  color: #C2CBE5;
+}
+
+.btn {
+  font-family: Chivo, sans-serif;
+  font-weight: 700;
+  padding: 10px 20px 10px 20px;
+  background-color: #54E6AF;
+  border-radius: 25px;
+}
+/*# sourceMappingURL=styles.css.map */

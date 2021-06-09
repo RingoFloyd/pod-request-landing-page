@@ -1,0 +1,34 @@
+$my-font:  Chivo, sans-serif;
+$my-green: #54E6AF;
+$my-dark-grey: #2C344B;
+$my-black: #121725;
+$my-white: #FFFFFF;
+$my-grey: #5A668A;
+$my-light-grey: #C2CBE5;
+
+body {
+    background-color: $my-black;
+}
+
+h1 {
+    font-family: $my-font;
+    font-weight: 300;
+    font-size: 57px;
+    color: $my-green;
+    text-transform: uppercase;
+}
+
+p {
+    font-family: $my-font;
+    font-weight: 300;
+    font-size: 23px;
+    color: $my-light-grey;
+}
+
+.btn {
+    font-family: $my-font;
+    font-weight: 700;
+    padding: 10px 20px 10px 20px;
+    background-color: $my-green;
+    border-radius: 25px;
+}
